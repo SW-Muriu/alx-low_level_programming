@@ -1,10 +1,8 @@
-#inlcude <stdio.h>
+#include <stdio.h>
 
 /**
  *Main - Entry point
- *
  *Description - prints given statement
- *
  *Return: Always 0 (Success)
  */
 int main(void)
