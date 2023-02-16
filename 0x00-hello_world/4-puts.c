@@ -1,10 +1,10 @@
 #include <stdio.h>
 
- /**
-  * Main - Entry point
-  * Description: First C programme at ALx, Outputs a given Statement
-  * Return: Always 0 (Success)
-  */
+/**
+ * main - entry point
+ *prints "Programming is like building a multilingual puzzle
+ * Return: 0 if exited properly, non-zero otherwise
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
