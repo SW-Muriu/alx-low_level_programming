@@ -1,7 +1,8 @@
 #include <stdio.h>
    /**
-    * First C programme at ALX
-    * Outputs a given Statement
+    *main - Entry point
+    *Description: First C programme at ALx, Outputs a given Statement
+    *Return: 0
     */
     
 int main(void)
