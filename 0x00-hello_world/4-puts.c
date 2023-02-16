@@ -1,7 +1,10 @@
 #include <stdio.h>
    /**
+    *Main - Entry point
+    *
     *Description: First C programme at ALx, Outputs a given Statement
-    *Return: 0
+    *
+    *Return: Always 0 (Success)
     */
  int main(void)
 {

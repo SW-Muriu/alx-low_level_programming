@@ -1,6 +1,10 @@
 #inlude <stdio.h>
 /**
- *Description: prints size of various variable types
+ *Main -Entry point
+ *
+ *Description: prints size of various variable types in C
+ *
+ * Return: Always 0 (Success)
  */
 int main (void)
 {
