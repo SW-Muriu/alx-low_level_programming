@@ -3,7 +3,7 @@
  * print_alphabet: function prints alphabets
  * Description: print lowercased alphabets & only use 2 putchars
  *
- * Return: 0 if successful (Always) otherwise return nonzero value
+ * Return: Always 0 (Success)
  */
 void print_alphabet(void)
 {
