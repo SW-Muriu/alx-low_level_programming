@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * Main: Entry point
- * Description:Write a program that prints '_putchar' followed by a newline
- * Return 0: Successful (Always), non-zero otherwise
+ * Main - Entry point: Write a program that prints "-putchar" followed by a new line
+ * Description: Do not use standard libraries.
+ * Return 0: Successful (Always), non-zero otherwise.
  */
 int main(void)
 {
@@ -18,3 +18,4 @@ int main(void)
 
 	return (0);
 }
+

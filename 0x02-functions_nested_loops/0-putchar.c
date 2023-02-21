@@ -2,7 +2,7 @@
 /**
  * Main - Entry point: Write a program that prints "-putchar" followed by a new line
  * Description: Do not use standard libraries.
- * Return 0: Successful (Always), non-zero otherwise.
+ * Return: 0 if Successful (Always), non-zero otherwise.
  */
 int main(void)
 {
@@ -18,4 +18,3 @@ int main(void)
 
 	return (0);
 }
-
