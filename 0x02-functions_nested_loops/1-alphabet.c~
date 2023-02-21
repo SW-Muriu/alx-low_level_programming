@@ -1,17 +1,16 @@
 #include "main.h"
 /**
  * print_alphabet: function prints alphabets
- * Description: print lowercased alphabets & only use 2 putchars
- *
+ * Description: print lowercased alphabets & only use 2 '_puchar"
  * Return: Always 0 (Success)
  */
 void print_alphabet(void)
 {
-	char c = 'a';
+	char alphabet = 'a';
 
-	while (c <= 'z')
+	while (alphabet <= 'z')
 	{
-		_putchar(c);
+		_putchar(alphabet);
 		c++;
 	}
 	_putchar('\n');
