@@ -4,7 +4,8 @@
  *
  * Description: program prints alphabets
  * uses only 2 _putchar fxns
- * -print_alphabet: function prints,
+ *
+ * print_alphabet - function prints,
  *  lowercased alphabets
  *
  * Return: 0 if successful (Always)
