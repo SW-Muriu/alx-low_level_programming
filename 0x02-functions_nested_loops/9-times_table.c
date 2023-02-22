@@ -1,9 +1,6 @@
 #include "main.h"
 /**
  * times_table - Print the 9 times table, starting with 0
- * @x: varaible factor
- * @y: counter variable
- * @z: computed value
  *
  * Return: 0
  */
