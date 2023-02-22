@@ -1,18 +1,18 @@
 #include "main.h"
 /**
  * _abs - edit the absolute value of an integer
- * @c: int type 
+ * @n: int type 
  *
- * Return: absolute value of @c
+ * Return: absolute value of @n
  */
 int _abs(int n)
 {
-	if (c < 0)
+	if (n < 0)
 	{
-		return (c * -1);
+		return (n * -1);
 	}
 	else
 	{
-		return (c);
+		return (n);
 	}
 }
