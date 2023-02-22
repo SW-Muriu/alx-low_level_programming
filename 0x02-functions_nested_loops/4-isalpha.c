@@ -1,18 +1,14 @@
 #include "main.h"
 /**
- * _abs - edit the absolute value of an integer
- * @c: int type 
+ * _isalpha - Check if the character n is an alphabet
+ * @n: type int character
  *
- * Return: absolute value of @c
+ * Return: 1 if letter, lowercase or uppercase, and 0 otherwise
  */
-int _abs(intcn)
+int _isalpha(int n)
 {
-	if (c < 0)
-	{
-		return (c * -1);
-	}
+	if ((n > 64 && n < 91) || ((n > 96 && n < 123))
+		return (1);
 	else
-	{
-		return (c);
-	}
+		return (0);
 }
