@@ -1,8 +1,6 @@
 #include "main.h"
 /**
- * main - Entry point
- *
- * print_alphabet - function prints,
+ *  print_alphabet - function prints,
  *  lowercased alphabets
  *  only uses 2 putchar
  *
