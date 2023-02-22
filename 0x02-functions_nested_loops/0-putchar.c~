@@ -1,8 +1,13 @@
 #include "main.h"
 /**
- * Main - Entry point: Write a program that prints "-putchar" followed by a new line
- * Description: Do not use standard libraries.
- * Return: 0 if Successful (Always), non-zero otherwise.
+ * Main - Entry point
+ *
+ * Description:  Write a program that prints "-putchar"
+ * followed by a new line
+ * Do not use standard libraries.
+ *
+ * Return: 0 if Successful (Always)
+ * non-zero otherwise.
  */
 int main(void)
 {
