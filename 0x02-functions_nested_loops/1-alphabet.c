@@ -2,11 +2,9 @@
 /**
  * main - Entry point
  *
- * Description: program prints alphabets
- * uses only 2 _putchar fxns
- *
  * print_alphabet - function prints,
  *  lowercased alphabets
+ *  only uses 2 putchar
  *
  * Return: 0 if successful (Always)
  */
