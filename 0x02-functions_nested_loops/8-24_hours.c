@@ -11,7 +11,7 @@ void jack_bauer(void)
 	int k = 0;
 	int a = 0, b = 0, c = 0, d = 0;
 
-	while (x < 1440)
+	while (k < 1440)
 	{
 		_putchar(a + '0');
 		_putchar(b + '0');
