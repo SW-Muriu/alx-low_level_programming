@@ -1,14 +1,14 @@
 #include "main.h"
 /**
  * jack_bauer - Print all minutes Jack Bauer's day
- * @k: integer variable
+ * 
  * Description: Start from 00:00 to 23:59
  *
  * return: minutes of Jack Bauer's day
  */
 void jack_bauer(void)
 {
-	int k = 0;
+	int k = 0; /* counter */
 	int a = 0, b = 0, c = 0, d = 0;
 
 	while (k < 1440)
