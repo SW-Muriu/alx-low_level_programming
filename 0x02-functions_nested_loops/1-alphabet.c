@@ -1,9 +1,12 @@
 #include "main.h"
 /**
- * print_alphabet: function prints lowercased alphabets
- * Description: only use two '_puchar'
+ * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Description: program prints alphabets
+ * uses only 2 _putchar fxns
+ * print_alphabet: fxn prints lowercased alphabets
+ *
+ * Return: 0 if successful (Always)
  */
 void print_alphabet(void)
 {
@@ -15,4 +18,6 @@ void print_alphabet(void)
 		alphabet++;
 	}
 	_putchar('\n');
+
+	return (0);
 }
