@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * jack_bauer - Print all minutes Jack Bauer's day
- * @b: integer variable
+ * @k: integer variable
  * Description: Start from 00:00 to 23:59
  *
  * return: minutes of Jack Bauer's day
