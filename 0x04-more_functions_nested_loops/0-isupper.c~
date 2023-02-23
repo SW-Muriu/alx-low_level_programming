@@ -1,0 +1,14 @@
+#include "main.h"
+#include <stdio.h>
+
+/**
+ * main - check the code
+ * Description: returns 1 if letter is uppercase, 0 if not
+ *
+ * Return: Always 0 (Successful)
+ */
+int main(void)
+{
+	char c;
+
+	while 
