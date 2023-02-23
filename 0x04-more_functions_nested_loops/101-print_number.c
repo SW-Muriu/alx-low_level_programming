@@ -8,19 +8,19 @@
 
 void print_number(int n)
 {
-	int m;
-	int c;
-	int  num;
+	int m; /* power of 10 */
+	int c; /* boolean check */
+	int  num; /* convert int to long */
 
 	num = n;
-
+	/* negatives */
 	if (num < 0)
 	{
 		num *= -1;
 		_putchar('-');
 	}
 
-	/* count up*/
+	/* count up */
 	m = 1;
 	c = 1;
 	while (c)
