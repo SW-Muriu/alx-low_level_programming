@@ -7,13 +7,7 @@
  *  Letters o and O should be replaced by 0
  *  Letters t and T should be replaced by 7
  *  Letters l and L should be replaced by 1
- * -Prototype: char *leet(char *)
- *  You can only use one if in your code
- *  You can only use two loops in your code
- *  You are not allowed to use switch
- *  You are not allowed to use
- *  any ternary operation
- * @s: string
+ *  @s: string
  *
  * Return: encoded string `s`
  */
