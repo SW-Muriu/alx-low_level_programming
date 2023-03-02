@@ -3,8 +3,8 @@
 /**
  * rot13 - rotate characters 13 places in the alphabet
  * prototype of rot13 encoding
- * You can only use if statement once,
- * two loops, no switch and no ternary operation
+ * Use 1 if statement once,2 loops,
+ * no switch & ternary operation
  * @s: string
  *
  * Return: string `s` rotated
