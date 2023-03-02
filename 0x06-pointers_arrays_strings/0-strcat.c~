@@ -7,9 +7,6 @@
  * at the end of dest, and then adds a terminating
  * null byte
  *
- * @dest: the character string to concatenate to
- * @src: the character string to append from
- *
  * Return: pointer to resulting string `dest`
  */
 
