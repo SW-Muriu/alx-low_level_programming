@@ -2,9 +2,9 @@
 
 /**
  * print_number - Prints an integer
- * Use 1 _putchar and no long
- * dont use arrays,pointers,hardcode special values
- * 
+ * only using a single _putchar and no long
+ * dont use arrays or pointers or hardcode special values
+ *
  * @n: The integer to be printed.
  */
 
