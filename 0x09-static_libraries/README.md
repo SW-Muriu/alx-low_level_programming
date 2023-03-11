@@ -1,1 +1,1 @@
-Answers to static libraries assignment
+Static libraries
