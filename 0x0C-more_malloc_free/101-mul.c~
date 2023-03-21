@@ -18,8 +18,9 @@ int _atoi_digit(char x)
 }
 
 /**
- * _isNumber - Define if a string is a number.
+ * _isNumber - Define if a string is a number
  * @argv: Pointer to string.
+ *
  * Return: success (0).
  **/
 
@@ -62,8 +63,9 @@ void *_calloc(unsigned int nmemb, unsigned int size)
  * @len1: length of array a1.
  * @a2:  char.
  * @a3: array for result.
- * @lena: length of array a3.
- * Return: pointer to array.
+ * @lena: length of array a3
+ *
+ * Return: pointer to array
  **/
 
 void *mul_array(char *a1, int len1, char a2, char *a3, int lena)
@@ -90,9 +92,9 @@ void *mul_array(char *a1, int len1, char a2, char *a3, int lena)
 }
 
 /**
- * print_array - print all digits of array.
- * @nb: number of elements to print.
- * @a: array of elements.
+ * print_array - print all digits of array
+ * @nb: number of elements to print
+ * @a: array of elements
  **/
 
 void print_array(char *a, int nb)
@@ -111,10 +113,11 @@ void print_array(char *a, int nb)
 }
 
 /**
- *main - print the multiplication of 2 numbers.
- *@argc: array length.
- *@argv: array.
- *Return: 0.
+ * main - print the multiplication of 2 numbers
+ * @argc: array length
+ * @argv: array
+ *
+ * Return: 0
  */
 
 int main(int argc, char *argv[])
